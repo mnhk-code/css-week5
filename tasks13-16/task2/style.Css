@@ -1,0 +1,9 @@
+div {
+    max-width: 400px;
+    background-color: rgb(176, 20, 20);
+    width: fit-content;
+    padding: 1px;
+    margin: 15px;
+    height: 50px;
+    overflow: hidden;
+}

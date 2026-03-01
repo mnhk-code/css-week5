@@ -1,0 +1,12 @@
+div p {
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+    border: inherit;
+    padding: inherit;
+}
+
+div {
+    border: 2px solid rgb(0, 94, 255);
+    padding: 19px;
+}

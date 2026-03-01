@@ -1,0 +1,12 @@
+div {
+    background: rgb(211, 208, 208);
+    padding: 9px;
+    margin: 10px;
+    width: 400px;
+}
+
+.th {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

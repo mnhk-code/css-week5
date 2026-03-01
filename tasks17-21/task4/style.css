@@ -1,0 +1,14 @@
+a {
+    background-color: rgb(5, 156, 136);
+    color: aliceblue;
+    border-bottom: 5px solid rgb(7, 119, 100);
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: x-large;
+    font-weight: bold;
+    display: inline-block;
+    width: 70px;
+    padding: 9px;
+    margin-top: 200px;
+    margin-left: calc(50vw - 48px);
+}

@@ -1,0 +1,5 @@
+p {
+    color: black;
+    text-shadow: 1px 1px 0px red, 2px 2px 0px rgb(109, 82, 243);
+    font-size: 30px;
+}
